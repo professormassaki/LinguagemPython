@@ -10,9 +10,9 @@
 </div>   
 
 # **Por que aprender Python?**
-	- Linguagem mais utilizada hoje globalmente
-	- Fácil de aprender
-	- Interoperabilidade (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
+	- Linguagem **mais utilizada** hoje globalmente
+	- **Fácil** de aprender
+	- **Interoperabilidade** (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
 	- Permite integração e desenvolvimento web;
 	- Tem muitos recursos e bibliotecas para visualização e análise de dados;
 	- Interpreta scripts (não requer compilação já que interpreta o código diretamente);
