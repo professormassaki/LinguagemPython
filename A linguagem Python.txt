@@ -5,3 +5,19 @@ CONCEITOS INTRODUTÓRIOS DE PYTHON
 - Entendendo o que é sistema: ENTRADA, PROCESSAMENTO E SAÍDA
 - Variável tipo inteira e tipo real
 - Narrativa, Fluxograma, Algoritmo ou pseudocódigo e código
+
+# O QUE SÃO MÓDULOS EM PYTHON?
+Conforme a documentação da linguagem Python no site Python.org:
+Se você sair do interpretador Python e inseri-lo novamente, as definições que você fez (funções e variáveis) serão perdidas. Portanto, se você quiser escrever um programa um pouco mais longo, é melhor usar um editor de texto para preparar a entrada para o interpretador e executá-lo com esse arquivo como entrada. Isso é conhecido como criação de um script . À medida que seu programa fica mais longo, você pode dividi-lo em vários arquivos para facilitar a manutenção. Você também pode usar uma função útil que escreveu em vários programas sem copiar sua definição em cada programa.
+Para suportar isso, a linguagem python tem uma maneira de colocar definições em um arquivo e usá-las em um script ou em uma instância interativa do interpretador. Esse arquivo é chamado de módulo; as definições de um módulo podem ser importadas para outros módulos ou para o módulo principal (a coleção de variáveis ​​às quais você tem acesso em um script executado no nível superior e no modo calculadora).
+Um módulo é um arquivo que contém definições e instruções do Python. O nome do arquivo é o nome do módulo com o sufixo .py anexado. Dentro de um módulo, o nome do módulo (como uma string) está disponível como o valor da variável global __name__. Por exemplo, use seu editor de texto favorito para criar um arquivo chamado fibo.pyno diretório atual com o seguinte conteúdo:
+
+# Basicamente um Módulo python é um arquivo.py contendo uma ou mais funções que você deseja incluir em seu aplicativo.
+## Mas o que é Função?
+Uma função é um bloco de código independente. As linguagens de programação fornecem inúmeras funções criadas pelos fabricantes das mesmas e também por terceiros. As funções são guardadas em módulos mas também podem estar em bibliotecas disponíveis no repositório Pypi.
+
+def mediaA2(v1, v2):
+    return (v1+v2)/2.0
+
+A palavra reservada def inicia a definição de uma função. Ela deve ser seguida do nome da função e da lista de parâmetros formais entre parênteses. Os comandos que formam o corpo da função começam na linha seguinte e devem ser indentados. A instrução return finaliza a execução e retorna um valor da função.
+
