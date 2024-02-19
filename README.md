@@ -9,5 +9,12 @@
 Python é uma das linguagens mais populares hoje. Existem diversas bibliotecas para análise de dados e materiais para auxiliar o desenvolvimento de algoritmos
 Além disso, é uma linguagem poderosa ... e rápida; interage bem com outras, é amigável, fácil de aprender e é de código aberto. 
 
-
 </div>   
+
+# **Por que aprender Python?**
+- Linguagem mais utilizada hoje globalmente
+- Fácil de aprender
+- Interoperabilidade (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
+- Permite integração e desenvolvimento web;
+- Tem muitos recursos e bibliotecas para visualização de dados;
+- Interpreta scripts (não requer compilação já que interpreta o código diretamente);
