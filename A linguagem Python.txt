@@ -4,3 +4,10 @@ Além disso, é uma linguagem poderosa ... e rápida; interage bem com outras, �
 
 
 A linguagem de Programação é um conjunto de instruções e símbolos escritas em um código fonte que permite a nós humanos traduzir nossos pensamentos em instruções que os computadores possam entender (já que a eletrônica é essencialmente binária). Este código pode ser compilado e transformado em um programa de computador, ou usado como script interpretado; que informará instruções de processamento ao computador.
+
+Linguagem mais utilizada hoje globalmente
+Fácil de aprender
+Interoperabilidade (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
+Permite integração e desenvolvimento web;
+Tem muitos recursos e bibliotecas para visualização de dados;
+Interpreta scripts (não requer compilação já que interpreta o código diretamente);
