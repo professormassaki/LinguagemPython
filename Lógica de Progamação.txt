@@ -1,0 +1,109 @@
+Fonte: https://kenzie.com.br/blog/logica-de-programacao/
+
+LÓGICA DE PROGRAMAÇÃO
+Por Massaki de O. Igarashi 
+19/02/24 10 min de leitura
+
+Basicamente, nossas ações seguem uma sequência lógica; mas sequer damos atenção a isso! Por exemplo, ao fazer uma análise do nosso cotidiano, perceberemos que nossas ações são consequência de uma cadeia de outras ações menores que nos levaram até uma atitude final.
+
+Exemplo: O simples do ato de acordar até tomamos café da manhã.
+
+Qual seria a sequência de ações menores que efetuamos ao:
+1.	Acordarmos, 
+2.	Preparamos o café com auxílio de uma cafeteira elétrica, 
+3.	Colocamos o café numa caneca 
+4.	e tomamos o café.
+
+Mas, ao detalhar este processo, somos capazes de estipular uma sequência de ações que nos levaram ao ato final de beber este café. Esta sequência pode ser:
+Ao acordar:
+1.	Me espreguiço e abro os olhos;
+2.	Levanto-me da cama;
+3.	Calço os chinelos;
+4.	Caminho até o corredor;
+5.	Caminho pelo corredor até a cozinha;
+Na cozinha, 
+6.	Pego os recipientes do pó de café e do açúcar no armário;
+7.	Coloco os recipientes ao lado da cafeteira;
+8.	Pego uma colher de sopa e de café na gaveta;
+9.	Com a colher de sopa, coloco o pó de café dentro da cafeteira;
+10.	Pego um copo com água 
+11.	Coloco água no compartimento específico;
+Após inserir todos os ingredientes na máquina: 
+12.	Aperto o botão de ligar;
+Quando o café está pronto: 
+13.	Pego a caneca e pires;
+14.	Despejo o café dentro de uma caneca;
+15.	Adoço o café
+16.	Coloco a caneca com café sobre o pires junto à colher de café
+Bebo o café.
+
+Se detalharmos ainda mais este processo, certamente incluiremos mais etapas nesta sequência de pequenas ações.
+No cotidiano estas pequenas ações passam muitas vezes despercebidas, mas na lógica de programação, estipular uma sequência de etapas é um procedimento muito importante e necessário, uma vez que, diferente dos seres humanos, os computadores naturalmente não são capazes de prever comportamentos que não estejam descritos ou para o qual não tenha sido preliminarmente treinado.
+Assim, para a solução de um problema, por exemplo: programar uma máquina, desenvolver um software, criar um jogo, ou realizar qualquer ação que necessite de código, certamente precisaremos estipular quais passos o computador deverá seguir para chegar ao nosso objetivo final.
+O ato de pensar logicamente para estipular sequências de passos para a resolução de um problema recebe o nome de lógica de programação; já a sequência narrativa desses eventos, algoritmo.
+
+Logo,
+Um algoritmo corresponde à sequência de passos necessários para se atingir um objetivo; ou seja, é a organização clara e precisa de uma sequência de instruções voltadas à resolução de um problema específico.
+
+Assim, o primeiro passo para qualquer programador é criar o algoritmo e avaliar se o resultado obtido condiz com a solução esperada. Em seguida, define-se a linguagem de programação a ser utilizada na implementação do algoritmo documentado.
+Existem inúmeras linguagens de programação (Python, Java, C, C++, C#, Delphi, Visual Basic, Julia, etc); e cada uma delas tem suas particularidades, como sua sintaxe, seus tipos de dados e sua orientação, mas a lógica por trás de todas é a mesma.
+
+Em outras palavras, entender e dominar a lógica de programação é a porta de entrada para tornar-se um(a) programador(a), seja em front-end ou em back-end.
+
+Front-end (ou FrondEnd) é a área de programação responsável pelo desenvolvimento da parte visível dos programas, ou seja, cuida do visual de site, aplicativo e das plataformas. O exemplo mais comum de front-end é a interface dos sites. O front-end não existe sozinho e anda acompanhado do back-end para que o produto ofereça uma boa experiência ao usuário. 
+
+Back-end (ou BackEnd) é toda a parte da programação voltada ao funcionamento interno de um software, site, aplicativo. Ou seja, é tudo aquilo que está por trás da interface de uma aplicação: seus sistemas, banco de dados, toda parte de segurança de dados, envio e recebimento de informações, armazenamento e etc.
+
+Por que algumas pessoas associam gostar de Programação com gostar de matemática?
+Provavelmente porque o aprendizado da lógica de programação envolve iniciar pela revisão de bases numéricas, e conversão entre bases. Portanto, gostar de matemática ajudará sim, principalmente na parte de lógica. Inclusive, existem diversos livros do ensino fundamental que possuem atividades de lógica matemática aplicada e este seria um bom ponto de partida para esse aprendizado! 
+
+
+Algumas frases para inspirar você a programar:
+
+"Todos neste país deveriam aprender a programar um computador porque ele ensina como pensar" (do inglês “Everybody in this country should learn how to program a computer because it teaches you how to think" - Steve Jobs).
+
+Não menos importante, "Se você deseja descobrir os segredos do universo ou apenas seguir uma carreira no século 21, a programação básica de computadores é uma habilidade essencial para aprender" (do inglês "Whether you want to uncover the secrets of the universe, or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn" - Stephen Hawking).
+
+
+Afinal, pensar de maneira lógica possibilita:
+
+	Melhor execução de processos da vida profissional.
+	Desenvolver códigos mais eficientes.
+	Melhor resolução de problemas do cotidiano; já que facilita a divisão de um problema complexo em pequenas partes e, portanto, auxilia a encontrar uma solução mais eficaz.
+	Ajuda na concentração; pois quanto mais claras e ordenadas as ações para atingir um objetivo, melhor será a concentração durante sua execução.Entender a tecnologia
+	Entender como a tecnologia em geral funciona; já que todos os processos existentes em TI dependem de um código que os sustenta.
+
+Mas como aprender a programar?
+
+Como todo e qualquer conhecimento, o aprendizado de uma linguagem de programação é como aprender algo novo, por isso, precisa basicamente de 5 etapas:
+
+1 – Compreender
+	Ao ser exposta a um conhecimento novo, uma pessoa precisa, primeiramente, compreender o que foi transmitido. Por isso é muito importante você perguntar e participar das aulas, questionando ao professor, questionando e sanando o que eventualmente ficou duvidoso ou não tão claro. Afinal, “compreender linguagem é o processo de (re)construir sentidos a partir do discurso falado ou escrito” (ALMEIDA FILHO, 2002). Por isso, dificilmente você compreenderá algo sem as etapas a seguir:
+
+2 – Reter
+	Para reter uma informação nova muitas vezes é necessário repeti-la por inúmeras vezes, ou pelo menos, praticar além do que lhe foi transmitido.
+
+3 – Praticar
+	Realizar e praticar os exercícios solicitados pelo professor na aula talvez seja o primeiro passo para praticar algo novo. Mas certamente ajudará se você for além do mínimo necessário, tentando praticar o que aprendeu inserindo o conhecimento na solução de problemas do seu cotidiano.
+
+4 – Disseminar
+	A transmissão do conhecimento novo que você adquiriu para outras pessoas ajuda na sua retenção. Por isso é tão importante realizar o trabalho em grupo, pois este foi pensado pelo professor para que os estudantes, mutuamente, possam contribuir uns com os outros nesta disseminação e, portanto, contribuírem para o processo de aprendizagem mútuo.
+
+5 – Criar
+	Tendo cumprido as etapas anteriores, o que certamente auxilia na consolidação do processo de aprendizado é o desafio de criar algo novo que não havia sido proposto ainda; isto certamente o desafiará, inclusive, a buscar e agregar novos conhecimentos de maneira autônoma e auto suficiente. 
+
+
+DICAS IMPORTANTES:
+
+Não tenha medo de errar! Errar é normal e todos erram, principalmente no começo de uma nova profissão ou de um aprendizado; isso é também importante para sua evolução e crescimento. 
+
+Nunca desista diante da primeira dificuldade; pergunte, peça auxílio! Como em qualquer jornada de aprendizado você enfrentará dificuldades; porém, não desista, o processo pode até ser longo e cansativo, mas saiba que superar uma dificuldade e alcançar um objetivo é algo que certamente contribuirá para o crescimento pessoal.
+
+Seja proativo(a); converse com colegas da área, participe de grupos e comunidades sobre o assunto; isto o ajudará a continuar evoluindo!
+
+Estude constantemente e revise os conhecimentos sempre que possível. 
+
+Participe e desfrute o máximo desta aprendizagem de algo novo; você certamente vivenciará experiências únicas e provavelmente terá a chance de praticar e evoluir suas habilidades socioemocionais (muito valorizadas no mercado de trabalho atualmente). Uma habilidade muito valorizada hoje é a comunicação e a facilidade de interação entre indivíduos.
+
+
+ALMEIDA FILHO, José Carlos Paes de; EL-DASH, Linda Gentry. Compreensão de Linguagem Oral no ensino de Língua Estrangeira. Revista Horizontes de Linguistica Aplicada, [S. l.], v. 1, p. 19–37, 2002. Disponível em: https://periodicos.unb.br/index.php/horizontesla/article/view/36777. Acesso em: 19 fev. 2024.
