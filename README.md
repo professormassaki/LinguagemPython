@@ -16,5 +16,5 @@ Além disso, é uma linguagem poderosa ... e rápida; interage bem com outras, �
 - Fácil de aprender
 - Interoperabilidade (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
 - Permite integração e desenvolvimento web;
-- Tem muitos recursos e bibliotecas para visualização de dados;
+- Tem muitos recursos e bibliotecas para visualização e análise de dados;
 - Interpreta scripts (não requer compilação já que interpreta o código diretamente);
