@@ -15,7 +15,7 @@
 	- Interoperabilidade (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
 	- Permite integração e desenvolvimento web;
 	- Tem muitos recursos e bibliotecas para visualização e análise de dados;
-	- Interpreta scripts (não requer compilação já que interpreta o código diretamente);
+	- Interpreta scripts (não requer compilação já que permite interpretar o código diretamente);
 
 # **Sumário deste material:**
 - [LP01 - Introdução à Linguagem de Programação Python - Parte 1](https://github.com/igarashimassaki/LinguagemPython/blob/main/LP01_INTRODU%C3%87%C3%83O_%C3%80_LINGUAGEM_DE_PROGRAMA%C3%87%C3%83O_PYTHON.ipynb)
