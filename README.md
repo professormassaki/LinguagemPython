@@ -17,7 +17,7 @@
 	- Tem muitos recursos e bibliotecas para visualização e análise de dados;
 	- Interpreta scripts (não requer compilação já que permite interpretar o código diretamente);
 
-# **Sumário deste material:**
+# **Este material introdutório de Python está dividido em 4 Módulos:**
 - [LP01 - Introdução à Linguagem de Programação Python - Parte 1](https://github.com/igarashimassaki/LinguagemPython/blob/main/LP01_INTRODU%C3%87%C3%83O_%C3%80_LINGUAGEM_DE_PROGRAMA%C3%87%C3%83O_PYTHON.ipynb)
 - [LP02 - Introdução à Linguagem de Programação Python - Parte 2](https://github.com/igarashimassaki/LinguagemPython/blob/main/LP02_INTRODU%C3%87%C3%83O_%C3%80_LINGUAGEM_DE_PROGRAMA%C3%87%C3%83O_PYTHON.ipynb)
 
