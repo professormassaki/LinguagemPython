@@ -11,6 +11,7 @@
 
 # **Mas Qual a Origem do Nome Python?**
 ![Origem_Nome_Python](https://github.com/igarashimassaki/LinguagemPython/blob/main/Origem_nome_Python.JPG)
+[Clique aqui para acessar Python.org](https://www.python.org)
 
 # **Por que aprender Python?**
 	- Linguagem mais utilizada hoje globalmente
