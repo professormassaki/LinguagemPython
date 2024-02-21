@@ -9,6 +9,10 @@
 	
 ### A linguagem Python foi criada pelo holandês *Guido van Rossun* por volta de 1990 e tem como principal filosofia, a simplicidade e legibilidade do código. Não obstante, é utilizada amplamente por grandes empresas como YouTube, Google, Yahoo e Microsoft. Python é uma das linguagens mais populares hoje. Existem diversas bibliotecas para análise de dados e materiais para auxiliar o desenvolvimento de algoritmos. Além disso, é uma linguagem poderosa ... e prática; interage bem com outras, é amigável, fácil de aprender e é de código aberto.
 
+</div>   
+
+<div align="center">
+	
 # **Mas Qual a Origem do Nome Python?**
 ![Origem_Nome_Python](https://github.com/igarashimassaki/LinguagemPython/blob/main/Origem_nome_Python.JPG)
 [Clique aqui para acessar Python.org](https://www.python.org)
@@ -20,10 +24,6 @@
 	- Permite integração e desenvolvimento web;
 	- Tem muitos recursos e bibliotecas para visualização e análise de dados;
 	- Interpreta scripts (não requer compilação já que permite interpretar o código diretamente);
-
-</div>   
-
-<div align="center">
 
 [AULA TESTE - Conceitos Introdutórios de Python - RESUMO](https://github.com/igarashimassaki/LinguagemPython/blob/main/Python01%20-%20Conceitos%20Introdut%C3%B3rios%20de%20Python%20-%20RESUMO.pdf)
   
