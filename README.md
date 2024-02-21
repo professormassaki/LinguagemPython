@@ -47,7 +47,9 @@
 </div>
 
 <div align="center">
+	
 # $\textcolor{blue}{Exemplos \ desenvolvidos \ em \ Linguagem \ Python}$
+
 </div>   
 
 <div align="justify">
