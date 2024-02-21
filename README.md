@@ -39,8 +39,11 @@
 </div>
 
 <div align="center">
-	
 # $\textcolor{blue}{Exemplos \ desenvolvidos \ em \ Linguagem \ Python}$
+</div>   
+
+<div align="justify">
+	
 - [REEMBOLSO - Versão 1.0](https://colab.research.google.com/drive/1RHbqdcY0vrBjzIIXnjzjlXxkaQ5mlmzg?usp=sharing)
 Programa para calcular reembolso; além de ROTA, DISTÂNCIA e TEMPO para o deslocamento entre dois endereços a serem fornecidos por você!")
 
