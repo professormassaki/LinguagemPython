@@ -46,5 +46,7 @@ Programa para calcular reembolso; além de ROTA, DISTÂNCIA e TEMPO para o deslo
 
 </div>
 
-# ---
+# -
+<div align="center">
 ![Em_Desenvolvimento](https://github.com/igarashimassaki/LinguagemPython/blob/main/desenvolvimento.jpg)
+</div>
