@@ -18,6 +18,10 @@
 [Clique aqui para acessar Python.org](https://www.python.org)
 
 # **Por que aprender Python?**
+</div>  
+
+<div align="justify">
+	
 	- Linguagem mais utilizada hoje globalmente
 	- Fácil de aprender
 	- Interoperabilidade (comunica-se de forma transparente com outras linguagens: Java, .NET e bibliotecas C/C ++);
@@ -25,6 +29,10 @@
 	- Tem muitos recursos e bibliotecas para visualização e análise de dados;
 	- Interpreta scripts (não requer compilação já que permite interpretar o código diretamente);
 
+</div>   
+
+<div align="center">
+	
 [AULA TESTE - Conceitos Introdutórios de Python - RESUMO](https://github.com/igarashimassaki/LinguagemPython/blob/main/Python01%20-%20Conceitos%20Introdut%C3%B3rios%20de%20Python%20-%20RESUMO.pdf)
   
 ![QRcodeRESUMO](https://github.com/igarashimassaki/LinguagemPython/blob/main/Python01%20-%20Conceitos%20Introdut%C3%B3rios%20de%20Python%20-%20RESUMO%20-%20QRcode.png)
