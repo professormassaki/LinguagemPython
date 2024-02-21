@@ -9,7 +9,7 @@
 
 </div>   
 
-![Origem_Nome_Python](https://github.com/igarashimassaki/LinguagemPython/blob/main/Origem_nome_Python.JPG)
+![Origem_Nome_Python]()
 
 # **Por que aprender Python?**
 	- Linguagem mais utilizada hoje globalmente
