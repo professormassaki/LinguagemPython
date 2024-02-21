@@ -19,7 +19,9 @@
 
 # **Este material introdutório de Python está dividido em 4 Módulos:**
 - [AULA TESTE - Conceitos Introdutórios de Python - RESUMO](https://github.com/igarashimassaki/LinguagemPython/blob/main/Python01%20-%20Conceitos%20Introdut%C3%B3rios%20de%20Python%20-%20RESUMO.pdf)
+- 
 ![QRcodeRESUMO](https://github.com/igarashimassaki/LinguagemPython/blob/main/Python01%20-%20Conceitos%20Introdut%C3%B3rios%20de%20Python%20-%20RESUMO%20-%20QRcode.png)
+
 - [LP01 - Introdução à Linguagem de Programação Python - Parte 1 (Recomendável: 2h para Estudo + 2h Prática extra)](https://github.com/igarashimassaki/LinguagemPython/blob/main/LP01_INTRODU%C3%87%C3%83O_%C3%80_LINGUAGEM_DE_PROGRAMA%C3%87%C3%83O_PYTHON_Parte_1.ipynb)
 - [LP02 - Introdução à Linguagem de Programação Python - Parte 2 (Recomendável: 1h para Estudo + 2h Prática extra)](https://github.com/igarashimassaki/LinguagemPython/blob/main/LP02_INTRODU%C3%87%C3%83O_%C3%80_LINGUAGEM_DE_PROGRAMA%C3%87%C3%83O_PYTHON.ipynb)
 ![IMAGEM1](https://github.com/igarashimassaki/LinguagemPython/blob/main/desenvolvimento.jpg)
